@@ -1,0 +1,21 @@
+{
+  "name": "remove-console-loader",
+  "version": "0.0.1",
+  "description": "A webpack loader that removes console statements",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ravindra Singh",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.14.5",
+    "@babel/preset-env": "^7.14.5",
+    "babel-loader": "^8.2.2",
+    "babel-plugin-transform-remove-console": "^6.9.4",
+    "loader-utils": "^2.0.0",
+    "webpack": "^5.38.1",
+    "webpack-cli": "^4.7.2"
+  },
+  "type": "commonjs"
+}

@@ -1,6 +1,6 @@
 {
   "name": "remove-console-loader",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A webpack loader that removes console statements",
   "main": "src/index.js",
   "scripts": {
@@ -17,9 +17,11 @@
     "@babel/preset-env": "^7.14.5",
     "babel-loader": "^8.2.2",
     "babel-plugin-transform-remove-console": "^6.9.4",
-    "loader-utils": "^2.0.0",
+    "loader-utils": "^2.0.0"
   },
   "type": "commonjs",
+  "repository": "https://github.com/singh-ravi-siso/remove-console-loader",
+  "homepage": "https://github.com/singh-ravi-siso/remove-console-loader/blob/main/README.md",
   "keywords": [
     "webpack",
     "loader",

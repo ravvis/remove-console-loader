@@ -17,5 +17,11 @@
     "webpack": "^5.38.1",
     "webpack-cli": "^4.7.2"
   },
-  "type": "commonjs"
+  "type": "commonjs",
+  "keywords": [
+    "webpack",
+    "loader",
+    "remove-console",
+    "drop-console"
+  ]
 }

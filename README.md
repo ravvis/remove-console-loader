@@ -8,10 +8,10 @@ Remove console statements(configurable) from the webpack build
 To begin, you'll need to install `remove-console-loader`:
 
 ```console
-npm i remove-console-loader --save-dev
+npm i -D remove-console-loader
 ```
 
-**app.js**
+**src/index.js**
 
 ```js
 const someVar = "Hello World";
